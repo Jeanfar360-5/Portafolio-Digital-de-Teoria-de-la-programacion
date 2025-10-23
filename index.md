@@ -1,15 +1,14 @@
-#teoria de la rogrmacion
+# 💻 Teoría de la Programación  
 
-##portafolio digital de aprendizaje 
+## 📚 Portafolio Digital de Aprendizaje  
 
-### unidad 1
+### 🧩 Unidad 1 — Fundamentos de la Programación  
+con
 
-### unidad 2
 
-### unidad 3
+### ⚙️ Unidad 2 — Estructuras y Algoritmos  
+### 🧠 Unidad 3 — Paradigmas de Programación  
 
-### concluciones 
-
-### referencias
-
-### Uso de la IA
+### 🏁 Conclusiones  
+### 📖 Referencias  
+### 🤖 Uso de la Inteligencia Artificial  
