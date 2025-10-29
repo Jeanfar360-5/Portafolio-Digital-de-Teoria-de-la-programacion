@@ -11,7 +11,7 @@
 - [Programación por bloques](contenidosUnidad/programacionBloques)
 - [Ejemplos de algoritmos con estructuras lineales secuenciales](contenidosUnidad/algoritmos/pseudocodigos)  
 - [Principales dificultades en la aplicación de los contenidos](contenidosUnidad/dificultadesAp.md)
-- [Reflexión crítica sobre los aprendizajes de la unidad]
+- [Reflexión crítica sobre los aprendizajes de la unidad](contenidosUnidad/refelexionCritica.md)
 
 **Tareas Entregadas (AA):**
 - [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
