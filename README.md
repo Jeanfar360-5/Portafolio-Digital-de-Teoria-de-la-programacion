@@ -31,7 +31,7 @@ Organizar y documentar los contenidos, actividades y resultados de aprendizaje r
 
 | Categoría | Detalles |
 |:-----------|:----------|
-| **Lenguajes** | Python 🐍, Pseudocódigo |
+| **Lenguajes** | Python 🐍, Lenguaje C, Pseudocódigo |
 | **Herramientas** | GitHub Pages, Markdown ✍️ |
 | **Visualización** | Diagramas de flujo 🧭 |
 
