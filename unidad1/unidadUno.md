@@ -9,9 +9,9 @@
 **Contenidos de la unidad:**  
 - [Algoritmos, pseudocódigos y diagramas de flujo](contenidosUnidad/algoritmos)
 - [Programación por bloques](contenidosUnidad/programacionBloques)
-- Ejemplos de algoritmos con estructuras lineales secuenciales  
-- Principales dificultades en la aplicación de los contenidos  
-- Reflexión crítica sobre los aprendizajes de la unidad
+- [Ejemplos de algoritmos con estructuras lineales secuenciales]  
+- [Principales dificultades en la aplicación de los contenidos](contenidosUnidad/dificultadesAp.md)
+- [Reflexión crítica sobre los aprendizajes de la unidad]
 
 **Tareas Entregadas (AA):**
 - [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
