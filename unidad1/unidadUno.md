@@ -9,7 +9,7 @@
 **Contenidos de la unidad:**  
 - [Algoritmos, pseudocódigos y diagramas de flujo](contenidosUnidad/algoritmos)
 - [Programación por bloques](contenidosUnidad/programacionBloques)
-- [Ejemplos de algoritmos con estructuras lineales secuenciales]  
+- [Ejemplos de algoritmos con estructuras lineales secuenciales](contenidosUnidad/algoritmos/pseudocodigos)  
 - [Principales dificultades en la aplicación de los contenidos](contenidosUnidad/dificultadesAp.md)
 - [Reflexión crítica sobre los aprendizajes de la unidad]
 
