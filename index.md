@@ -33,7 +33,7 @@
 
 ### 🏁 Conclusiones genarles  
 
-### 📖 Referencias  
+### 📖 Bibliografías  
 
 ### 🤖 Uso de la Inteligencia Artificial  
 
