@@ -7,7 +7,7 @@
 ### 🧩 Unidad 1: Fundamentos de Algoritmos  
 
 **Contenidos de la unidad:**  
-- Algoritmos, pseudocódigos y diagramas de flujo
+- [Algoritmos, pseudocódigos y diagramas de flujo](contenidosUnidad/algoritmos)
 - Programación por bloques  
 - Ejemplos de algoritmos con estructuras lineales secuenciales  
 - Principales dificultades en la aplicación de los contenidos  
