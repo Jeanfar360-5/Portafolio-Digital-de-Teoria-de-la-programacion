@@ -38,16 +38,6 @@ Organizar y documentar los contenidos, actividades y resultados de aprendizaje r
 
 ---
 
-## 📋 Contenidos de la Unidad 1  
-
-- 🧩 Algoritmos y pseudocódigo  
-- 📊 Diagramas de flujo  
-- 🧱 Programación por bloques  
-- 🔄 Estructuras secuenciales  
-- ⚙️ Instalación de entornos de desarrollo  
-
----
-
 ## 🚀 Cómo Visualizar  
 
 1. **Clona el repositorio:**
