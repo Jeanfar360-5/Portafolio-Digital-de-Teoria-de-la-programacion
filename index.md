@@ -25,14 +25,13 @@
 
 ### 🧩 Unidad 1 — Fundamentos de la Programación:
 
-[Contenidos de la Unidad y Tareas de la Unidad ](unidad1/unidadUno.md)
-
+[Contenidos de la Unidad y Tareas de la Unidad ](unidad1/unidadUno.md) 
 
 ### ⚙️ Unidad 2 — Estructuras y Algoritmos 
 
 ### 🧠 Unidad 3 — Paradigmas de Programación  
 
-### 🏁 Conclusiones  
+### 🏁 Conclusiones genarles  
 
 ### 📖 Referencias  
 
