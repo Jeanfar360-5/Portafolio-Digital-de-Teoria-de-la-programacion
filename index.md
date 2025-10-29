@@ -25,7 +25,7 @@
 
 ### 🧩 Unidad 1 — Fundamentos de la Programación:
 
-[Contenidos de la Unidad y Tareas de la Unidad ](unidad1/unidadUno.md) 
+[Visualizar la unidad 1 ](unidad1/unidadUno.md) 
 
 ### ⚙️ Unidad 2 — Estructuras y Algoritmos 
 
