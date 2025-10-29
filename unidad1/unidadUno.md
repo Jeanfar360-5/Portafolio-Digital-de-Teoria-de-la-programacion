@@ -14,7 +14,7 @@
 - Reflexión crítica sobre los aprendizajes de la unidad
 
 **Tareas Entregadas (AA):**
-- Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
+- [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 - [Instalación de lenguajes de programación (C, Python o Java) ](tareasEntregadas/AA_Actividad_Nro2_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 - Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea
 - [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](tareasEntregadas/APE_Teoría_de_la_programación_Unidad_1_Jeancarlos_Aguirre_Del_diseño_del_algoritmo.pdf)
