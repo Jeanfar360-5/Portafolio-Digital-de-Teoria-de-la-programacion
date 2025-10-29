@@ -1,2 +1,68 @@
-# Portafolio-Digital-de-Teoria-de-la-programacion
-Portafolio diseñado para archivar los documentos de la materia de teoría de la programación
+# 💻 Portafolio Digital — Teoría de la Programación  
+
+---
+
+## 📘 Descripción  
+Este **portafolio digital de aprendizaje** corresponde a la asignatura **Teoría de la Programación — Unidad 1**, desarrollado como parte de la **evaluación sumativa** de la **Carrera de Computación** en la **Universidad Nacional de Loja**.  
+
+El documento recopila **evidencias, actividades, reflexiones y ejemplos prácticos** que demuestran la comprensión de los **algoritmos con estructuras secuenciales**.  
+
+---
+
+## 🎯 Objetivo  
+Organizar y documentar los contenidos, actividades y resultados de aprendizaje relacionados con el diseño y desarrollo de **algoritmos y programas secuenciales**, integrando recursos visuales, análisis crítico y uso de herramientas digitales.  
+
+---
+
+## 🏗️ Estructura del Portafolio  
+
+| Sección | Descripción |
+|:--------|:-------------|
+| 🧾 **Carátula** | Datos institucionales y del estudiante |
+| 🧩 **Unidad 1** | Contenidos, actividades y evidencias de aprendizaje |
+| ⚙️ **Ejemplos de algoritmos** | Códigos y pseudocódigos con estructuras secuenciales |
+| 💬 **Reflexiones** | Análisis crítico del proceso de aprendizaje |
+| 📖 **Bibliografía** | Fuentes de consulta en formato IEEE |
+| 🤖 **Declaración de IA** | Uso responsable de herramientas generativas |
+
+---
+
+## 🛠️ Tecnologías y Herramientas Utilizadas  
+
+| Categoría | Detalles |
+|:-----------|:----------|
+| **Lenguajes** | Python 🐍, Pseudocódigo |
+| **Herramientas** | GitHub Pages, Markdown ✍️ |
+| **Visualización** | Diagramas de flujo 🧭 |
+
+---
+
+## 📋 Contenidos de la Unidad 1  
+
+- 🧩 Algoritmos y pseudocódigo  
+- 📊 Diagramas de flujo  
+- 🧱 Programación por bloques  
+- 🔄 Estructuras secuenciales  
+- ⚙️ Instalación de entornos de desarrollo  
+
+---
+
+## 🚀 Cómo Visualizar  
+
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+
+
+## 🚀 Cómo Visualizar
+1. Clona el repositorio
+2. Abre los archivos .md en tu visualizador preferido
+3. Para GitHub Pages: Accede a [tu-usuario].github.io/[repositorio]
+
+## 📝 Notas
+Este portafolio fue desarrollado como evidencia del aprendizaje en la Unidad 1 de Teoría de la Programación, cumpliendo con los criterios establecidos en la rúbrica de evaluación.
+
+---
+**Universidad Nacional de Loja**  
+*Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables*  
+*Carrera de Computación - 2025*
