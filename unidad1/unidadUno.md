@@ -15,6 +15,6 @@
 
 **Tareas Entregadas (AA):**
 - Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
-- [Instalación de lenguajes de programación (C, Python o Java) ](unidad1/tareasEntregadas/unidadUno.md)
+- [Instalación de lenguajes de programación (C, Python o Java) ](unidad1/tareasEntregadas/AA_Actividad_Nro2_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 - Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea
 - Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
