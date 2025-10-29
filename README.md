@@ -18,11 +18,12 @@ Organizar y documentar los contenidos, actividades y resultados de aprendizaje r
 
 | Sección | Descripción |
 |:--------|:-------------|
-| 🧾 **Carátula** | Datos institucionales y del estudiante |
-| 🧩 **Unidad 1** | Contenidos, actividades y evidencias de aprendizaje |
-| ⚙️ **Ejemplos de algoritmos** | Códigos y pseudocódigos con estructuras secuenciales |
-| 💬 **Reflexiones** | Análisis crítico del proceso de aprendizaje |
-| 📖 **Bibliografía** | Fuentes de consulta en formato IEEE |
+| 🧾 **Carátula (INDEX)** | Datos institucionales y del estudiante |
+| 🧩 **Unidad 1** | Contenidos y actividades de la unidad 1 |
+| ⚙️ **Unidad 2** | Contenidos y actividades de la unidad 2 |
+| 🧠 **Unidad 3** | Contenidos y actividades de la unidad 3 |
+| 🏁 **Conclusiones generales** | Análisis crítico del proceso de aprendizaje |
+| 📖 **Bibliografías** | Fuentes de consulta en formato IEEE |
 | 🤖 **Declaración de IA** | Uso responsable de herramientas generativas |
 
 ---
