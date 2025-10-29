@@ -37,3 +37,5 @@
 ### 📖 Referencias  
 
 ### 🤖 Uso de la Inteligencia Artificial  
+
+[Declaracion de Uso de la IA](usoIA.md)
