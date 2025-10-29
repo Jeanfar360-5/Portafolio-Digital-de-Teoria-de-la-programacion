@@ -25,25 +25,7 @@
 
 ### 🧩 Unidad 1 — Fundamentos de la Programación:
 
-- Contenidos de la Unidad
-  
-[Algoritmos, Pseudocodigos y Diagramas de flujo ](unidadUno.md)
-
-[Programacion por Bloques ](unidadUno.md)
-
-[Principales difi cultades en la aplicación de los contenidos ](unidadUno.md)
-
-[Refelxion Critica de los aprendizajes de la unidad ](unidadUno.md)
-
-- Tareas Entregadas
-  
-[Herramientas de algoritmos ](unidadUno.md)
-
-[Instalación de lenguajes de programación ](unidadUno.md)
-
-[Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea ](unidadUno.md)
-
-[Del diseño del algoritmo con estructuras secuenciales a la construcción del programa ](unidadUno.md)
+[Contenidos de la Unidad y Tareas de la Unidad ](unidadUno.md)
 
 
 ### ⚙️ Unidad 2 — Estructuras y Algoritmos 
