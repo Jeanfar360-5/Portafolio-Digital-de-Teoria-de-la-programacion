@@ -19,7 +19,7 @@ Este es un listado correspondiente todos los contenidos de la unidad:
 
 Todo el contenido en listado fue consolodidado en un libro digital: 
 
-[De un click para acceder al libro ](contenidosUnidad/libroDigital.md)
+[De un click aqui para acceder al libro ](contenidosUnidad/libroDigital.md)
 
 ---
 
