@@ -34,6 +34,7 @@
 ### 🏁 Conclusiones genarles  
 
 ### 📖 Bibliografías  
+[Bibliografias](dfg)
 
 ### 🤖 Uso de la Inteligencia Artificial  
 
