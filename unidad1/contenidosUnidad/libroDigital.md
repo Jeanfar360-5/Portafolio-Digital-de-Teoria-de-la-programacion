@@ -24,9 +24,11 @@ Con todos estos conceptos ahora podremos adentrarnos a la programacion en Pseudo
 
 **PSeInt** o por tambien llamado **Pseudocode Interpreter** es una herramienta educativa gratuita diseñada para apoyar el aprendizaje de la programación estructurada mediante el uso de pseudocódigo. Fue creada con el propósito de facilitar la comprensión de los conceptos básicos de programación, permitiendo a los estudiantes practicar la resolución de problemas sin la complejidad de un lenguaje formal[4]. Nosotros como estudiantes, para introducirnos a la programacion utilizamos PSeInt como herramienta de programacion en pseudocodigo, y para demostrar su funcionalidad mostrare un ejemplo de programacion por Pseudodigo en PSeInt:
 
+***
 
+**Pseudocodigo**
 
- <img width="1228" height="516" alt="image" src="[https://github.com/user-attachments/assets/8aa8e22c-35bd-4397-8528-c7b6bc75949b](https://drive.google.com/file/d/18m1STJVm2dXm6aJo7k_k0p3P8shm3qJn/view?usp=sharing)" />
+<img width="1918" height="997" alt="Captura de pantalla 2025-10-30 234607" src="https://github.com/user-attachments/assets/778cd9c7-3f3c-464e-a0ed-b8131c9099e7" />
 
  * Este algoritmo tiene la finalidad de calcular el promedio de un estudiante con 3 calificaciones.
    
@@ -36,19 +38,20 @@ Con todos estos conceptos ahora podremos adentrarnos a la programacion en Pseudo
     * **Leer:** Si queremos que el usuario guarde un valor dentro de una variable usamos este comando para que lo haga.
     * **Asignar (a=b+c)** Este comando es utilizado para realizar operaciones aritmeticas dentro del algoritmo, ya sean, sumas, restas multiplicaciones, etc.
 
+***
+
 **Diagrama de flujo**
 
 
-<img width="685" height="923" alt="image" src="https://github.com/user-attachments/assets/71a5e05d-4cf3-457d-94b2-1c8608f0128c" />
+<img width="1918" height="1017" alt="Captura de pantalla 2025-10-30 235149" src="https://github.com/user-attachments/assets/840dfb4a-23c7-417e-9d94-f026713aba97" />
 
+* Aqui se puede ver el Pseudocodigo adaptado automaticamente por PSeInt.
+* Como podemos ver cada recuadro tiene una forma y color distinto diferenciando cada comando de forma separada
 
-* Este es el mismo proble representado en Pseudocodigo.
-* Aqui se identifica mejor los datos de entrada y salida.
-
- 
+  
  ---
  
-
+ 
 > **Otros Ejemplos de ejercicios realizados en PseInt**
     1. [ 💻 Carpeta con archivos realizados en PseInt ](contenidosUnidad/algoritmos/pseudocodigos)
 
@@ -56,24 +59,22 @@ Con todos estos conceptos ahora podremos adentrarnos a la programacion en Pseudo
 
 ## 2. Programación por Bloques
 
-La Programación por Bloques (ej. Scratch o Blockly) es una metodología educativa que utiliza **piezas visuales (bloques)** para representar comandos [4]. Este enfoque elimina la principal barrera inicial, la **sintaxis textual** [5].
+La programación por bloques permite a los aprendices crear programas conectando piezas gráficas que representan instrucciones, promoviendo el pensamiento computacional de manera accesible y visual [4]. La programacion por bloques es bastante util para introducir a la progrmacion junto con el pseudocodigo, ya que la programacion por bloques es visual e intuitiva es bastante funcional para ambitos educativos.
 
-Al enfocarse en el ensamblaje visual, el estudiante puede concentrarse directamente en la **Lógica de Control** y la **Abstracción** de conceptos [4]. Es una herramienta efectiva para desarrollar el **pensamiento computacional** en etapas tempranas y facilitar una transición más suave a lenguajes basados en texto [5].
+**Un Ejemplo de progrmacion de bloques**
 
-**Ejemplo de progrmacion de bloques**
+<img width="872" height="430" alt="Imagen1" src="https://github.com/user-attachments/assets/99f19e23-f3b0-447f-94e2-f956ade14dc4" />
 
-<img width="1459" height="681" alt="image" src="https://github.com/user-attachments/assets/70f728b3-fe03-438b-84ec-b722f57a4ca2" />
-
-
-* Esto fue usado en Blockly, aqui les dejo el link por si quieren probarlo:[Blocky](https://blockly.games/?lang=es)
-* En este trabajo necesitabamos, ordenar los bloques para hacer que el muñequito llegue a la ubicacion.
+* Este ejemplo fue utilizado en la pagina web de Blocky, una pagina de programacion por bloques muy util: [Blocky](https://blockly.games/?lang=es)
+* En este ejercicio nuestro trabajo es el ordenar los bloques para hacer que el sujeto en cuestion llegue a su destino.
 
   
->**Acceso a un pdf, con mas imagenes que tratan de lo mismo:**
+>**Otros ejemplos de Programacion por bloques:**
  [ ⏹️ Ejercicios Resueltos de Programacion por Bloques ](contenidosUnidad/programacionBloques)
 
- 
+
 ---
+
 
 ## 3. Ejemplos de Algoritmos Lineales/Secuenciales
 
@@ -124,47 +125,6 @@ La prueba de escritorio (también conocida como **traza**) es una técnica funda
 | | `pesos` = `dolar` \* **18.45** | `pesos` |
 
 ***Nota de Coherencia:*** *Las constantes usadas en la conversión son ejemplos didácticos. Los valores reales de las tasas de cambio varían diariamente.*
-
-### Segundo Ejemplo: Conversión de Temperatura (Celsius a Fahrenheit)
-
-Este ejemplo también sigue la estructura secuencial básica (**Entrada/Proceso/Salida**) y es ideal para ilustrar una operación matemática sencilla y directa. Se enfoca en la conversión de una unidad de temperatura común (Celsius) a otra (Fahrenheit).
-
-**Pseudocodigo**
-
-* Aquí se presenta el algoritmo de conversión, donde se solicita la temperatura en grados Celsius y se aplica la fórmula matemática para obtener el resultado en Fahrenheit: **$F = C \times 1.8 + 32$**.
-
-<img width="1000" height="436" alt="Pseudocódigo para la conversión de temperatura de Celsius a Fahrenheit." src="https://github.com/user-attachments/assets/23122415-9557-47da-b7e6-159fb030d113" />
-
-**Diagrama de flujo**
-
-* El diagrama de flujo representa visualmente los pasos secuenciales: la entrada de la variable (Celsius), el proceso de cálculo y la salida del resultado (Fahrenheit).
-
-<img width="586" height="681" alt="Diagrama de flujo para la conversión de temperatura." src="https://github.com/user-attachments/assets/05c31660-0b7f-4fea-9117-d07675bb858f" /> 
-
-**Programacion en C**
-
-* La implementación en C utiliza variables de tipo **coma flotante** (`float` o `double`) para manejar números decimales, esenciales en cálculos como este donde se usan valores como `1.8` y `32`.
-
-<img width="668" height="317" alt="Código fuente del algoritmo de conversión de temperatura en lenguaje C." src="https://github.com/user-attachments/assets/95aae229-52df-4a8b-8f2b-cf57699ef2bc" />
-
-* **Reglas de Sintaxis y Uso en C:**
-    * **Inclusión de Librería:** Se inicia con `#include <stdio.h>` para usar funciones de entrada/salida como `printf()` y `scanf()`.
-    * **Función Principal:** El código se ejecuta dentro de la función `int main() { ... }`.
-    * **Declaración de Variables:** Es obligatorio declarar el tipo de datos de las variables (`float` en este caso) antes de usarlas.
-    * **Fin de Sentencia:** Cada instrucción (lectura, cálculo o impresión) debe terminar con un **punto y coma (`;`)**.
-* **Compilación y Ejecución (Recordatorio):**
-    * **Compilación:** `gcc (nombre_del_archivo.c) -o (nombre_del_ejecutable)`
-    * **Ejecución:** `.\ (nombre_del_ejecutable).exe`
-
----
-
-## 📊 Prueba de Escritorio (Traza)
-
-Esta tabla verifica la lógica de conversión usando la fórmula **$F = C \times 1.8 + 32$**.
-
-| Datos de Entrada (Input) | Proceso (Cálculos) | Datos de Salida (Output) |
-| :--- | :--- | :--- |
-| La cantidad de grados **Celsius** (`celsius`) | `fahrenheit` = `celsius` $\times$ **1.8 + 32** | **Fahrenheit** (`fahrenheit`) |
 
 ---
 
