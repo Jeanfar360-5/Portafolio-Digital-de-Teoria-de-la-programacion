@@ -1,4 +1,4 @@
-**Bicliografias**
+**Bibliografias**
 
 [1] S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani, Algorithms, 2nd ed. New York, NY, USA: McGraw-Hill Education, 2021.
 
