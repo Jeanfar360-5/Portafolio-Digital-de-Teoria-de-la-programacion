@@ -1,4 +1,4 @@
-# 📚 Contenidos Fundamentales de la Unidad 1: Fundamentos y Paradigmas 🧠
+# 📚 Contenido de la Unidad 1: Fundamentos y bases de la programacion 🧠
 
 ***
 
