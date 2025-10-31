@@ -111,12 +111,17 @@ La programación por bloques permite a los aprendices crear programas conectando
 
 ## 📊 Prueba de Escritorio (Traza)
 
-
-
 | Metros (entrada) | Fórmula km | Resultado km | Fórmula cm | Resultado cm | Fórmula mm | Resultado mm |
 |------------------:|:-----------|--------------:|:-----------|--------------:|:-----------|--------------:|
-| 12345 | 12345 / 1000 | **12.345 km** | 12345 * 100 | **1,234,500 cm** | 12345 * 1000 | **12,345,000 mm** |
-| 56789 | 56789 / 1000 | **56.789 km** | 56789 * 100 | **5,678,900 cm** | 56789 * 1000 | **56,
+| 125 | 125 / 1000 | **0.125 km** | 125 * 100 | **12,500 cm** | 125 * 1000 | **125,000 mm** |
+| 850 | 850 / 1000 | **0.85 km** | 850 * 100 | **85,000 cm** | 850 * 1000 | **850,000 mm** |
+| 3420 | 3420 / 1000 | **3.42 km** | 3420 * 100 | **342,000 cm** | 3420 * 1000 | **3,420,000 mm** |
+
+---
+
+## 📊 Conclusión
+El algoritmo realiza correctamente las conversiones de **metros a kilómetros, centímetros y milímetros**, aplicando las fórmulas matemáticas básicas de conversión de unidades.
+
 
 ---
 
