@@ -78,25 +78,23 @@ La programación por bloques permite a los aprendices crear programas conectando
 
 ## 3. Ejemplos de Algoritmos Lineales/Secuenciales
 
-El estudio práctico de los algoritmos secuenciales, que son la base de la secuencia de control (**Entrada/Proceso/Salida**), es crucial para consolidar la habilidad de programación. Aquí redactaremos un ejemplo práctico en: **Pseudocódigo**, **Diagrama de Flujo** y **Lenguaje de Programación C**.
-
-### Primer Ejemplo: Conversión de Moneda (Dólar a Soles, Pesos, Euros)
+### Ejemplo: Conversión de metros a kilómetros, centímetros y milímetros
 
 **Pseudocodigo**
 
-* Aquí se plantea una conversión de moneda de dólar a: **soles**, **pesos** y **euros**.
+* Este ejercicio plantea la trasformacion de la unidad de medida de metros a kilómetros, centímetros y milímetros.
 
-<img width="734" height="537" alt="Pseudocódigo para la conversión de moneda de dólar a soles, pesos y euros." src="https://github.com/user-attachments/assets/19498840-0113-4460-874f-8c59b81ea079" />
+<img width="1130" height="563" alt="Captura de pantalla 2025-10-31 001531" src="https://github.com/user-attachments/assets/4ae759dc-04d7-44f6-8083-5c27b6db272d" />
 
 **Diagrama de flujo**
 
 * Es el mismo proceso que se realizó en el pseudocódigo: calcular la conversión de moneda, respecto a soles, euros y pesos.
 
-<img width="487" height="860" alt="Diagrama de flujo para la conversión de moneda." src="https://github.com/user-attachments/assets/bf760000-8b19-4f9d-bd3e-551feda0820f" />
+<img width="1130" height="563" alt="Captura de pantalla 2025-10-31 001531" src="https://github.com/user-attachments/assets/4895ba37-ee99-4920-a115-05e132678e6b" />
 
 **Lenguaje de programacion C**
 
-* Al igual que en los ejemplos anteriores, aquí utilizamos el mismo objetivo transformado a **Programación C**.
+* Ahora Procedermos a transformar este algoritmo al lenguaje de **Programación C**.
 
 <img width="860" height="530" alt="Código fuente del algoritmo de conversión de moneda en lenguaje C." src="https://github.com/user-attachments/assets/34224e23-a6a7-4533-a355-a0308243f975" />
 
