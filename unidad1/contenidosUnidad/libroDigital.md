@@ -34,7 +34,11 @@ A continuacion le mostraremos un ejemplo en pseudocodigo y diagrama de flujo:
  
 
 > **Material extra de Ejercicios en PseInt**
-    [Trabajos realizados en PseInt ubicados en carpetas de drive](https://drive.google.com/drive/folders/1mlCiZorkPx-79P8WRRNJvbFe1E7qyXT-?usp=drive_link)
+    1. [🔹 Algoritmos, pseudocódigos y diagramas de flujo](contenidosUnidad/algoritmos)
+2. [🔹 Programación por bloques]
+3. [🔹 Ejemplos de algoritmos con estructuras lineales secuenciales](contenidosUnidad/algoritmos/pseudocodigos)  
+4. [🔹 Principales dificultades en la aplicación de los contenidos](contenidosUnidad/dificultadesAp.md)
+5. [🔹 Reflexión crítica sobre los aprendizajes de la unidad](contenidosUnidad/refelexionCritica.md)
 
 ---
 
@@ -54,7 +58,7 @@ Al enfocarse en el ensamblaje visual, el estudiante puede concentrarse directame
 
   
 >**Acceso a un pdf, con mas imagenes que tratan de lo mismo:**
- [Ver imágenes de bloques de programación](https://drive.google.com/file/d/1WjPha4wgmfYXULZK3EdGBcht3wQHq1lE/view?usp=drive_link)
+ [ ⏹️ Ejercicios Resueltos de Programacion por Bloques ](contenidosUnidad/programacionBloques)
 
  
 ---
