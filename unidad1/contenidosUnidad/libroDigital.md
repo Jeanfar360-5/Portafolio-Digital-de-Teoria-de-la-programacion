@@ -90,7 +90,7 @@ La programación por bloques permite a los aprendices crear programas conectando
 
 * Es el mismo proceso que se realizó en el pseudocódigo: calcular la conversión de moneda, respecto a soles, euros y pesos.
 
-<img width="1130" height="563" alt="Captura de pantalla 2025-10-31 001531" src="https://github.com/user-attachments/assets/4895ba37-ee99-4920-a115-05e132678e6b" />
+<img width="757" height="930" alt="Captura de pantalla 2025-10-31 002218" src="https://github.com/user-attachments/assets/abd440af-4ad3-48f5-b1ec-560e33eeb4d2" />
 
 **Lenguaje de programacion C**
 
@@ -104,9 +104,6 @@ La programación por bloques permite a los aprendices crear programas conectando
 * **Regla de Sintaxis:** Cada instrucción del algoritmo debe terminar en **punto y coma (`;`)**, de lo contrario, no se puede compilar ni ejecutar.
 * **Compilación:** Para compilar, se usa el código: `gcc (nombre_del_archivo.c) -o (nombre_del_ejecutable)`.
 * **Ejecución:** Para ejecutar, se usa el código: `.\ (nombre_del_ejecutable).exe`.
-    * **Ejemplo de Consola:**
-        
-<img width="1020" height="272" alt="Ejemplo de compilación y ejecución del código C en la consola." src="https://github.com/user-attachments/assets/5119c2ff-b387-4b59-aaf7-d143ad37c39d" />
 
 * Los dos primeros comandos son ejemplos de los códigos para **Compilar** y **Ejecutar**. Luego, se muestra el código ya ejecutado con sus respuestas.
 
@@ -114,15 +111,12 @@ La programación por bloques permite a los aprendices crear programas conectando
 
 ## 📊 Prueba de Escritorio (Traza)
 
-La prueba de escritorio (también conocida como **traza**) es una técnica fundamental que consiste en simular el funcionamiento del algoritmo paso a paso en una tabla. Se utiliza para verificar su lógica y los valores que toman las variables.
 
-| Datos de Entrada (Input) | Proceso (Cálculos) | Datos de Salida (Output) |
-| :--- | :--- | :--- |
-| **Valor del Dólar** (`dolar`) | `soles` = `dolar` \* **3.38** | `soles` |
-| | `euros` = `dolar` \* **0.86** | `euros` |
-| | `pesos` = `dolar` \* **18.45** | `pesos` |
 
-***Nota de Coherencia:*** *Las constantes usadas en la conversión son ejemplos didácticos. Los valores reales de las tasas de cambio varían diariamente.*
+| Metros (entrada) | Fórmula km | Resultado km | Fórmula cm | Resultado cm | Fórmula mm | Resultado mm |
+|------------------:|:-----------|--------------:|:-----------|--------------:|:-----------|--------------:|
+| 12345 | 12345 / 1000 | **12.345 km** | 12345 * 100 | **1,234,500 cm** | 12345 * 1000 | **12,345,000 mm** |
+| 56789 | 56789 / 1000 | **56.789 km** | 56789 * 100 | **5,678,900 cm** | 56789 * 1000 | **56,
 
 ---
 
