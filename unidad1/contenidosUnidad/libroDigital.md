@@ -119,12 +119,6 @@ La programación por bloques permite a los aprendices crear programas conectando
 
 ---
 
-## 📊 Conclusión
-El algoritmo realiza correctamente las conversiones de **metros a kilómetros, centímetros y milímetros**, aplicando las fórmulas matemáticas básicas de conversión de unidades.
-
-
----
-
 ## 4. ⚠️ Principales Dificultades en la Aplicación de los Contenidos  
 
 Al momento de que se presentaron las clases de programacion no fue tan dificil el adaptarme al entorno de aprendizaje ya que, ya poseia conociemientos previos debido a mi formacion bachiller, sin embargo debo admitir que si prente algunas dificultades al momento de probar un nuevo lenguaje de programacion y tuve algunas dificultades al momento de aplicar lo aprendido por ejemplo, una dificultad que tuve al momento de programar en C, fue que al momento de terminar un algortimo, este siempre se tendra que compilar y ejecutar a travez de comandos lo que me fue complicado en un prinicpio ya que es un comando estructurado que no debe contener errores, asi mismo no solo el comando de compilacion tiene una estructura exacta sino tambien por ejemplo el concatenar las variables, ya que se concaten las variables de difernete forma a como se hace en Java o en Python, Sin embargo estas dificultades las pude superar y poco a poco me fui adapatando al nuevo entorno de trabajo el cual fue este nuevo lenguaje de programacion.
