@@ -34,7 +34,7 @@ A continuacion le mostraremos un ejemplo en pseudocodigo y diagrama de flujo:
  
 
 > **Otros Ejemplos de ejercicios realizados en PseInt**
-    1. [ 💻 Carpeta con archivos realizados en PseInt ](contenidosUnidad/algoritmos/pseudoCodigos)
+    1. [ 💻 Carpeta con archivos realizados en PseInt ](contenidosUnidad/algoritmos/pseudocodigos)
 
 ---
 
