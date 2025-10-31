@@ -101,11 +101,9 @@ La programación por bloques permite a los aprendices crear programas conectando
 * **Declaraciones Iniciales:** En C, el inicio del algoritmo requiere:
     * `#include <stdio.h>` (para la entrada y salida de datos).
     * `int main() { ... }` (función principal). Las llaves cierran el algoritmo.
-* **Regla de Sintaxis:** Cada instrucción del algoritmo debe terminar en **punto y coma (`;`)**, de lo contrario, no se puede compilar ni ejecutar.
+* **Sintaxis:** Cada linea de codigo del algoritmo debe terminar en **punto y coma (`;`)**.
 * **Compilación:** Para compilar, se usa el código: `gcc (nombre_del_archivo.c) -o (nombre_del_ejecutable)`.
 * **Ejecución:** Para ejecutar, se usa el código: `.\ (nombre_del_ejecutable).exe`.
-
-* Los dos primeros comandos son ejemplos de los códigos para **Compilar** y **Ejecutar**. Luego, se muestra el código ya ejecutado con sus respuestas.
 
 ---
 
