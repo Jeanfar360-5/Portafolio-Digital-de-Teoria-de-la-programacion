@@ -33,12 +33,8 @@ A continuacion le mostraremos un ejemplo en pseudocodigo y diagrama de flujo:
  ---
  
 
-> **Material extra de Ejercicios en PseInt**
-    1. [🔹 Algoritmos, pseudocódigos y diagramas de flujo](contenidosUnidad/algoritmos)
-2. [🔹 Programación por bloques]
-3. [🔹 Ejemplos de algoritmos con estructuras lineales secuenciales](contenidosUnidad/algoritmos/pseudocodigos)  
-4. [🔹 Principales dificultades en la aplicación de los contenidos](contenidosUnidad/dificultadesAp.md)
-5. [🔹 Reflexión crítica sobre los aprendizajes de la unidad](contenidosUnidad/refelexionCritica.md)
+> **Otros Ejemplos de ejercicios realizados en PseInt**
+    1. [ 💻 Carpeta con archivos realizados en PseInt ](contenidosUnidad/algoritmos/pseudoCodigos)
 
 ---
 
