@@ -11,11 +11,11 @@
 
 Este es un listado correspondiente todos los contenidos de la unidad:
 
-- 1. 🔹 Algoritmos, pseudocódigos y diagramas de flujo
-- 2. 🔹 Programación por bloques
-- 3. 🔹 Ejemplos de algoritmos con estructuras lineales secuenciales
-- 4. 🔹 Principales dificultades en la aplicación de los contenidos
-- 5. 🔹 Reflexión crítica sobre los aprendizajes de la unidad
+1. 🔹 Algoritmos, pseudocódigos y diagramas de flujo
+2. 🔹 Programación por bloques
+3. 🔹 Ejemplos de algoritmos con estructuras lineales secuenciales
+4. 🔹 Principales dificultades en la aplicación de los contenidos
+5. 🔹 Reflexión crítica sobre los aprendizajes de la unidad
 
 Todo el contenido en listado fue consolodidado en un libro digital: 
 
