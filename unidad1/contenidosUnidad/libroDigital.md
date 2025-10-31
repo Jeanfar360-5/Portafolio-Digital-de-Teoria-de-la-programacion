@@ -154,8 +154,26 @@ Esta tabla verifica la lógica de conversión usando la fórmula **$F = C \times
 
 ## 4. ⚠️ Principales Dificultades en la Aplicación
 
-Al principio se me dificultó su uso, pues era una herramienta totalmente nueva, pero poco a poco uno se va adaptando y va probando hasta que las cosas salen del todo.
-Existe una frase clásica que representa al programador: 'Si lo puedes imaginar, lo puedes programar'. Todavía no llego a ese nivel de maestría, pero sé podria decir que ahora es un objetivo"
+## 🚧 Principales Dificultades en la Aplicación de los Contenidos  
+
+---
+
+### ⚠️ **Problemas Identificados**
+
+#### 🔹 1. Abstracción de problemas a algoritmos  
+La transición de un problema descrito en lenguaje natural a un algoritmo formal representó un desafío significativo, especialmente en la identificación de los pasos secuenciales necesarios.
+
+#### 🔹 2. Sintaxis vs. lógica en pseudocódigo  
+Aunque el pseudocódigo es más flexible que un lenguaje de programación, mantener una estructura clara y consistente mientras se desarrolla la lógica del programa requirió práctica constante.
+
+#### 🔹 3. Traducción a lenguaje de programación  
+La adaptación del pseudocódigo a sintaxis específica de lenguajes como **Python** o **C** generó confusiones, particularmente en la declaración de variables y el manejo de entrada/salida de datos.
+
+#### 🔹 4. Depuración de errores secuenciales  
+Identificar y corregir errores en programas con estructuras puramente secuenciales demostró la importancia de verificar cada paso antes de proceder al siguiente.
+
+#### 🔹 5. Compilación y Ejecución  
+Al momento de terminar un algortimo en el lenguaje de programacion C, este siempre se tendra que compilar y ejecutar a travez de comandos lo que fue complicado en un prinicpio ya que es un comando estructurado que no debe contener errores.
 
 ---
 
