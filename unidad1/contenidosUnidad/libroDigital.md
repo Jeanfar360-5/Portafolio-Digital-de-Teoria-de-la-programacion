@@ -2,23 +2,39 @@
 
 ***
 
+## 0. La Programacion en Base
+
+Como Introduccion a este libro digital primero debemos saber que es la programacion como concepto inicial: La programación es el proceso de analizar, diseñar, codificar o traducir, depurar y mantener el código fuente de los programas computacionales, los cuales son escritos en algún lenguaje de programación (Joyanes, 2008)[1]. 
+
+A partir de este concepto ya podremos iniciar de forma secuancial con los contenidos del libro de forma comoda
+
+***
+
 ## 1. Algoritmos, Pseudocódigo y Diagrama de Flujo
 
-El **algoritmo** es la base del pensamiento computacional: una secuencia finita y ordenada de reglas para resolver un problema [1]. Su estudio es vital porque permite a los desarrolladores priorizar la **solución conceptual** sobre la implementación técnica, lo cual es un factor clave en la calidad final del software [2].
+Un **algoritmo** se define como un conjunto finito de reglas o instrucciones bien definidas para obtener una salida deseada a partir de un conjunto de entradas [1]. En pocas palabras un algoritmo es una secuencia ordenada de pasos o instrucciones que nos permiten resolver un problema o realizar una tarea concreta. Los algoritmos como tal son los primeros conceptos para abordar la progrmacion como materia de estudio por lo tanto es importante enfatizar el que es y como se implementa dentro del entorno diario.
 
-Para modelar esta solución abstracta, se utilizan dos herramientas principales:
-1.  **Pseudocódigo:** Un lenguaje intermedio, **independiente del lenguaje de programación**, que usa estructuras sintácticas similares al código para describir la lógica [3].
-2.  **Diagrama de Flujo:** La **representación gráfica** del algoritmo, que usa símbolos estandarizados y líneas de flujo para mostrar la secuencia de ejecución [1].
-A continuacion le mostraremos un ejemplo en pseudocodigo y diagrama de flujo:
+Siguiendo nuestra secuencia de aprendizaje ahora debemos abordar que es un **Pseudocodigo** y que es un **diagrama de flujo**, conctrtamente:
 
-**Pseudocodigo**
+1. El **pseudocódigo** se utiliza como un medio intermedio entre la descripción informal de un problema y su implementación en un lenguaje de programación, permitiendo un diseño más claro y organizado de los algoritmos [2]. Dicho en palabras propias el Pseudocodigo como tal, es el intermedio entre nuestro lenguaje natural y el leguaje de las maquinas es decir los lengujes de alto nivel, lo que es bastante util para centar las bases de la programacion de forma facil, ya que el pseudocodigo estara en nuestra lengua.
+   
+2. Los **diagramas de flujo** proporcionan una representación visual de los algoritmos, mostrando la relación entre operaciones, decisiones y el flujo de datos dentro de un proceso [3]. Los diagramas de flujo, son una representacion visual del pseudocodigo, siendo bastnte util para poder entender el como funcionan los algoritmos, es decir, como si se tratase de un cuerpo ordenado de instrucciones, Inicio, desarrollo y final.
+
+Con todos estos conceptos ahora podremos adentrarnos a la programacion en Pseudocodigo con normalidad:
+
+**PSeInt** o por tambien llamado **Pseudocode Interpreter** es una herramienta educativa gratuita diseñada para apoyar el aprendizaje de la programación estructurada mediante el uso de pseudocódigo. Fue creada con el propósito de facilitar la comprensión de los conceptos básicos de programación, permitiendo a los estudiantes practicar la resolución de problemas sin la complejidad de un lenguaje formal[4]. Nosotros como estudiantes, para introducirnos a la programacion utilizamos PSeInt como herramienta de programacion en pseudocodigo, y para demostrar su funcionalidad mostrare un ejemplo de programacion por Pseudodigo en PSeInt:
 
 
- <img width="1228" height="516" alt="image" src="https://github.com/user-attachments/assets/8aa8e22c-35bd-4397-8528-c7b6bc75949b" />
 
- * Aqui explicamos, como calcular el vuelto de una persona a traves de una resta. 
- 
- * Los pasos estan señalados, definivos los comentarios del autor como con "//".
+ <img width="1228" height="516" alt="image" src="[https://github.com/user-attachments/assets/8aa8e22c-35bd-4397-8528-c7b6bc75949b](https://drive.google.com/file/d/18m1STJVm2dXm6aJo7k_k0p3P8shm3qJn/view?usp=sharing)" />
+
+ * Este algoritmo tiene la finalidad de calcular el promedio de un estudiante con 3 calificaciones.
+   
+ * **Funcionamiento de los comandos del algorimo:**
+    * **Definir:** Se encarga de declarar las variables, es decir a travez de este podemos definir datos en los cuales luego podremos o definir valores, o que el usuario los defina .
+    * **Escribir:** A travez de este comando podemos mostrar dentro del ejecutador de comandos, textos que el usuario podra ver para seguir una orden en conctreto.
+    * **Leer:** Si queremos que el usuario guarde un valor dentro de una variable usamos este comando para que lo haga.
+    * **Asignar (a=b+c)** Este comando es utilizado para realizar operaciones aritmeticas dentro del algoritmo, ya sean, sumas, restas multiplicaciones, etc.
 
 **Diagrama de flujo**
 
