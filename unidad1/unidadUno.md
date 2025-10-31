@@ -8,11 +8,17 @@
 ## 🧩 Unidad 1 — Fundamentos de Algoritmos  
 
 ### 📖 Contenidos de la Unidad
+
+Este es un listado correspondiente todos los contenidos de la unidad:
+
 1. [🔹 Algoritmos, pseudocódigos y diagramas de flujo](contenidosUnidad/algoritmos)
 2. [🔹 Programación por bloques](contenidosUnidad/programacionBloques)
 3. [🔹 Ejemplos de algoritmos con estructuras lineales secuenciales](contenidosUnidad/algoritmos/pseudocodigos)  
 4. [🔹 Principales dificultades en la aplicación de los contenidos](contenidosUnidad/dificultadesAp.md)
 5. [🔹 Reflexión crítica sobre los aprendizajes de la unidad](contenidosUnidad/refelexionCritica.md)
+
+Todo el contenido en listado fue consolodidado en un libro digital: 
+[Ingrese aqui para acceder al lobro: ](libro digital de la Unidad 1)
 
 ---
 
