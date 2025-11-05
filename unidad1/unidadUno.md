@@ -33,6 +33,9 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 
 ### 🎯 Conclusiones de la Unidad
 
+La unidad presento las bases de la programacion y como esta se basa en la lógica y la planificación. El uso de algoritmos, pseudocódigo y diagramas de flujo fue util para entener la programacion de forma facil y haci transcionar addecuadamente al código en lenguajes de programacion de alto nivel. Para destacarlo esencial de este unidad es saber comprender, detectar y mejorar nuestros conocimiento para minimizar nuestros propios errores para lograr soluciones más claras y eficaces con la programacion.        
+
+---
 ### 🏁 Estado General  
 ✅ Unidad completada con todas las actividades entregadas correctamente.  
 📅 Actualizado el: *28 de octubre de 2025*
