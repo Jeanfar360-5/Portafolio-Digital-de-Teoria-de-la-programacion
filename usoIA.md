@@ -17,7 +17,7 @@ La inteligencia artificial fue utilizada **únicamente como recurso de apoyo com
 
 ### 🧩 Alcance y Limitaciones del Apoyo
 Es importante destacar que:
-- **Todas las decisiones creativas finales**, la **implementación práctica**, la **evidencia de aprendizaje** y el **contenido fundamental** del portafolio son de **autoría exclusiva del estudiante**.  
+- **Todas las decisiones creativas finales**, la **implementación práctica**, la **evidencia de aprendizaje** y el **contenido fundamental** del portafolio son de **autoría propia**.  
 - La IA **no intervino en la redacción de reflexiones personales, resultados de aprendizaje ni análisis crítico**.  
 - El uso de la IA se realizó **bajo supervisión personal**, cumpliendo con las **directrices académicas** que permiten su utilización como **herramienta de acompañamiento técnico**.
 
