@@ -11,31 +11,22 @@
 
 ---
 
-### 👨‍🏫 Docente: Lissette Geoconda López Faicán
+### 👨‍🏫 Docente: Cueva Hurtado Mario Enrique
 ### 👨‍🎓 Estudiante: Jeancarlos Fernando Aguirre Romero 
-
-
-
-#📍 Loja - Ecuador  
-#📆 Entregado el dia Martes 28, de Octubre del 2025
 
 ---
 
-## 📚 Portafolio Digital de Aprendizaje – Teoría de la Programación. 
+## 📚 Portafolio Digital de Aprendizaje – Matematicas Discretas
 
-### 🧩 Unidad 1 — Fundamentos de la Programación:
+### 🧩 Unidad 1 — Lógica Matematica
 
 [Visualizar la unidad 1 ](unidad1/unidadUno.md) 
 
-### ⚙️ Unidad 2 — Estructuras y Algoritmos 
+### ⚙️ Unidad 2 — Algebra de Bolee 
 
-### 🧠 Unidad 3 — Paradigmas de Programación  
+### 🧠 Unidad 3 — Grafos y Arboles  
 
 ### 🏁 Conclusiones genarles  
 
 ### 📖 Bibliografías  
 [Bibliografias](unidad1/Bibliografias.md)
-
-### 🤖 Uso de la Inteligencia Artificial  
-
-[Declaracion de Uso de la IA](usoIA.md)
