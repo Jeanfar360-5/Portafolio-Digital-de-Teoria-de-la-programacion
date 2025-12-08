@@ -11,20 +11,20 @@
 
 ---
 
-### 👨‍🏫 Docente: Cueva Hurtado Mario Enrique
+### 👨‍🏫 Docente: Lissette Geoconda López Faicán
 ### 👨‍🎓 Estudiante: Jeancarlos Fernando Aguirre Romero 
 
 ---
 
 ## 📚 Portafolio Digital de Aprendizaje – Matematicas Discretas
 
-### 🧩 Unidad 1 — Lógica Matematica
+### 🧩 Unidad 1 — Fundamentos de la Programación:
 
 [Visualizar la unidad 1 ](unidad1/unidadUno.md) 
 
-### ⚙️ Unidad 2 — Algebra de Bolee 
+### ⚙️ Unidad 2 — Estructuras y Algoritmos:
 
-### 🧠 Unidad 3 — Grafos y Arboles  
+### 🧠 Unidad 3 — Paradigmas de Programación:  
 
 ### 🏁 Conclusiones genarles  
 
