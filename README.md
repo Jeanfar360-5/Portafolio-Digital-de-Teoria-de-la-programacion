@@ -34,7 +34,7 @@ Organizar y documentar los contenidos, actividades y resultados de aprendizaje r
 |:-----------|:----------|
 | **Lenguajes** | Python 🐍, Lenguaje C, Pseudocódigo |
 | **Herramientas** | GitHub Pages, Markdown ✍️ |
-| **Visualización** | Diagramas de flujo 🧭 |
+| **Visualización** | Diagramas de flujo y Archivos de Codigo 🧭 |
 
 ---
 
@@ -51,7 +51,7 @@ Organizar y documentar los contenidos, actividades y resultados de aprendizaje r
 3. Para GitHub Pages: Accede a [tu-usuario].github.io/[repositorio]
 
 ## 📝 Notas
-Este portafolio fue desarrollado como evidencia del aprendizaje en la Unidad 1 de Teoría de la Programación, cumpliendo con los criterios establecidos en la rúbrica de evaluación.
+Este portafolio fue desarrollado como evidencia del aprendizaje en las Unidades referentes a la materia de Teoría de la Programación, cumpliendo con los criterios establecidos en la rúbrica de evaluación.
 
 ---
 **Universidad Nacional de Loja**  
