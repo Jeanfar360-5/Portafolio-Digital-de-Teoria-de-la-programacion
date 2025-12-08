@@ -24,7 +24,7 @@
 
 ### ⚙️ Unidad 2 — Estructuras y Algoritmos:
 
-[Visualizar la unidad 1 ](unidad2/unidadDoS.md) 
+[Visualizar la unidad 2 ](unidad2/unidadDoS.md) 
 
 ### 🧠 Unidad 3 — Paradigmas de Programación:  
 
