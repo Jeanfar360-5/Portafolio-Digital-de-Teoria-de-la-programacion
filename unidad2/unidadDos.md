@@ -1,1 +1,49 @@
+# 💻 Teoría de la Programación  
+📘 **Estudiante:** Jeancarlos Aguirre  
+🏫 **Asignatura:** Teoría de la Programación  
+🗓️ **Período Académico:** Septiembre 2025 – Febrero 2026  
+
+---
+
+## 🧩 Unidad 2 — Fundamentos de Algoritmos  
+
+### 📖 Contenidos de la Unidad
+
+Este es un listado correspondiente todos los contenidos de la unidad:
+
+1. 🔹 **Estructuras Condicionales (Tipos y Ejercicios)**
+       Realizado en Diagramas de Flujo y en código C
+   
+2. 🔹 **Estructuras Repetitivas (Tipos y Ejercicios)**
+       Realizado en Diagramas de Flujo y en código C
+   
+3. 🔹 **Ejercicio Combinado**
+      Un ejercicio Especial el cual combina estructuras condicionales y bucles repetitivos
+   
+4. 🔹 Principales dificultades en la aplicación de los contenidos
+   
+5. 🔹 Reflexión crítica sobre los aprendizajes de la unidad
+
+Todo el contenido en listado fue consolodidado en un libro digital: 
+
+[De un click aqui para acceder al libro ](contenidosUnidad/libroUnidad2.md)
+
+---
+
+### 📂 Tareas Entregadas (AA)
+- [🧠 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
+- [⚙️ Instalación de lenguajes de programación (C, Python o Java)](tareasEntregadas/AA_Actividad_Nro2_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
+- [🧩 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](tareasEntregadas/APE_Nro._1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
+- [💻 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](tareasEntregadas/APE_Teoría_de_la_programación_Unidad_1_Jeancarlos_Aguirre_Del_diseño_del_algoritmo.pdf)
+
+---
+
+### 🎯 Conclusiones de la Unidad
+
+La unidad presento las bases de la programacion y como esta se basa en la lógica y la planificación. El uso de algoritmos, pseudocódigo y diagramas de flujo fue util para entener la programacion de forma facil y haci transcionar addecuadamente al código en lenguajes de programacion de alto nivel. Para destacarlo esencial de este unidad es saber comprender, detectar y mejorar nuestros conocimiento para minimizar nuestros propios errores para lograr soluciones más claras y eficaces con la programacion.        
+
+---
+### 🏁 Estado General  
+✅ Unidad completada con todas las actividades entregadas correctamente.  
+📅 Actualizado el: *7 de diciembre de 2025*
 
