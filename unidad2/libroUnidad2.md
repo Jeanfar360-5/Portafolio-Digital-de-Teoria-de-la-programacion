@@ -53,11 +53,34 @@ if (condición) { // código A } else { // código B }
 
 Esta estructura permite evaluar **varias condiciones** de forma secuencial. El programa ejecuta el bloque correspondiente a la **primera condición verdadera**, lo que aporta flexibilidad y orden lógico en decisiones más complejas.
 
+**Ejemplo de codigo en C**
+
+<img width="646" height="706" alt="image" src="https://github.com/user-attachments/assets/e4e11146-aea2-45ff-a992-96769dcb69f0" />
+
+
+
+**Ejemplo en diagrama de flujo**
+
+<img width="1508" height="656" alt="image" src="https://github.com/user-attachments/assets/90b77814-49d8-4983-bb07-b9b3c9a413d3" />
+
+
 ---
 
 #### B. Condicional Selectiva (`switch`) 🎛️
 
 Adecuada cuando la decisión depende del **valor exacto de una variable**. Se recomienda utilizar `break` en cada `case` para evitar que el flujo avance a los siguientes bloques.
+
+
+**Ejemplo de codigo en C**
+
+<img width="570" height="857" alt="image" src="https://github.com/user-attachments/assets/d887d83c-591c-4bda-9d29-27b90aa9e200" />
+
+
+**Ejemplo en diagrama de flujo**
+
+<img width="1302" height="425" alt="image" src="https://github.com/user-attachments/assets/a8239400-59e7-40b9-aff2-aeac95f29cae" />
+
+
 
 ---
 
