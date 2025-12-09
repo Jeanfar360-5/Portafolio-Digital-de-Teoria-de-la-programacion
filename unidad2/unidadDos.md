@@ -31,16 +31,18 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 ---
 
 ### 📂 Tareas Entregadas (AA)
-- [🧠 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
-- [⚙️ Instalación de lenguajes de programación (C, Python o Java)](tareasEntregadas/AA_Actividad_Nro2_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
-- [🧩 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](tareasEntregadas/APE_Nro._1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
-- [💻 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](tareasEntregadas/APE_Teoría_de_la_programación_Unidad_1_Jeancarlos_Aguirre_Del_diseño_del_algoritmo.pdf)
+- [🧠 Aplicación de estructuras condicionales en la resolución de problemas.](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
+- [⚙️ Aplicación de estructuras repetitivas en la resolución de problemas.](tareasEntregadas/AA_Actividad_Nro2_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
+- [🧩 Diferencias entre los tipos de estructuras condicionales.](tareasEntregadas/APE_Nro._1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
+- [💻 Cuadro comparativo entre las estructuras repetitivas.](tareasEntregadas/APE_Teoría_de_la_programación_Unidad_1_Jeancarlos_Aguirre_Del_diseño_del_algoritmo.pdf)
 
 ---
 
 ### 🎯 Conclusiones de la Unidad
 
-La unidad presento las bases de la programacion y como esta se basa en la lógica y la planificación. El uso de algoritmos, pseudocódigo y diagramas de flujo fue util para entener la programacion de forma facil y haci transcionar addecuadamente al código en lenguajes de programacion de alto nivel. Para destacarlo esencial de este unidad es saber comprender, detectar y mejorar nuestros conocimiento para minimizar nuestros propios errores para lograr soluciones más claras y eficaces con la programacion.        
+Profundizar en los diagramas de flujo, las estructuras condicionales y los bucles ha sido fundamental para consolidar nuestra comprensión del pensamiento lógico dentro de la programación. Los diagramas de flujo permiten visualizar de forma clara el camino que sigue un algoritmo, facilitando la identificación de errores y la mejora de cada proceso. Las condicionales y los bucles, por su parte, nos enseñan a tomar decisiones dentro del programa y repetir acciones de manera eficiente, dos capacidades esenciales en cualquier solución informática.
+
+En conjunto, estas herramientas no solo fortalecen nuestra habilidad para planificar mejor, sino que también nos permiten desarrollar soluciones más precisas, ordenadas y adaptables. Comprenderlas a profundidad es un paso clave para seguir avanzando con seguridad hacia proyectos más complejos y continuar mejorando nuestra capacidad de resolver problemas mediante la programación.     
 
 ---
 ### 🏁 Estado General  
