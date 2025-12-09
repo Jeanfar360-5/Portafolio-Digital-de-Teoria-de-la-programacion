@@ -31,7 +31,7 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 ---
 
 ### 📂 Tareas Entregadas (AA)
-- [🧠 Aplicación de estructuras condicionales en la resolución de problemas.](unidad2/tareasEntregadas/U2_APE1_Jeancarlos_Aguirre_APE1_Teoría_de_la_programación.pdf)
+- [🧠 Aplicación de estructuras condicionales en la resolución de problemas.](tareasEntregadas/U2_APE1_Jeancarlos_Aguirre_APE1_Teoría_de_la_programación.pdf)
 - [⚙️ Aplicación de estructuras repetitivas en la resolución de problemas.](tareasEntregadas/U2_APE2_Jeancarlos_Aguirre_Teoría_de_la_programación_Formato_Reporte_técnico_APE.pdf)
 - [🧩 Diferencias entre los tipos de estructuras condicionales.](tareasEntregadas/U2_AA1_Jeancarlos_Aguirre.pdf)
 - [💻 Cuadro comparativo entre las estructuras repetitivas.](tareasEntregadas/U2_APE2_Jeancarlos_Aguirre_Teoría_de_la_programación_Formato_Reporte_técnico_APE.pdf)
