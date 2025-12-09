@@ -79,10 +79,7 @@ Se emplea cuando el número de repeticiones está previamente definido. Su estru
 
 ### 3.1. Descripción del Problema 📝
 
-El objetivo es calcular la **suma de los números enteros** desde un valor inicial (`n`) hasta cero, respetando ciertas reglas:
 
-- **Condición:** El valor de $n$ debe estar en el rango **[10, 20]**.
-- **Proceso:** Si el valor es válido, se utiliza un **bucle `for` decreciente** (`n`, n-1, ..., 0) para imprimir cada número y acumular el total.
 
 ### 3.2. Diagrama de flujo:
 
