@@ -157,7 +157,10 @@ Se emplea cuando el número de repeticiones está previamente definido. Su estru
 
 ### 3.1. Descripción del Problema 📝
 
+**🏁 Problema Inicial**
 
+Un programa debe pedir al usuario varios números enteros y determinar cuántos de ellos son positivos, cuántos son negativos y cuántos son ceros.
+El usuario puede seguir ingresando números hasta que escriba la palabra "salir".
 
 ### 3.2. Diagrama de flujo:
 
@@ -165,9 +168,13 @@ Se emplea cuando el número de repeticiones está previamente definido. Su estru
 
 ### 3.3. Código en lenguaje C:
 
+<img width="727" height="600" alt="image" src="https://github.com/user-attachments/assets/90e7553a-4aa7-4691-a3a2-0b06d5bec283" />
 
 
 ### 3.4. Verificación:
+
+<img width="1460" height="527" alt="image" src="https://github.com/user-attachments/assets/19d8369f-be20-410a-bf41-9ed6bc34dcec" />
+
 
 ---
 
@@ -183,6 +190,3 @@ Se emplea cuando el número de repeticiones está previamente definido. Su estru
 
 
 
----
-
-### 🔙 Navegación Principal
