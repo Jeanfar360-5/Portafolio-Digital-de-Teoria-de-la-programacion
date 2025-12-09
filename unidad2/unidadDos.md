@@ -34,7 +34,7 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 - [🧠 Aplicación de estructuras condicionales en la resolución de problemas.](tareasEntregadas/Actividad_1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 - [⚙️ Aplicación de estructuras repetitivas en la resolución de problemas.](tareasEntregadas/AA_Actividad_Nro2_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
 - [🧩 Diferencias entre los tipos de estructuras condicionales.](tareasEntregadas/APE_Nro._1_Teoria_de_la_Programacion_Jeancarlos_Aguirre.pdf)
-- [💻 Cuadro comparativo entre las estructuras repetitivas.](tareasEntregadas/APE_Teoría_de_la_programación_Unidad_1_Jeancarlos_Aguirre_Del_diseño_del_algoritmo.pdf)
+- [💻 Cuadro comparativo entre las estructuras repetitivas.](tareasEntregadas/U2 - APE2 - Jeancarlos Aguirre - Teoría de la programación -Formato Reporte técnico APE.pdf)
 
 ---
 
