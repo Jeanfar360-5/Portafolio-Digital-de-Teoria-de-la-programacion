@@ -30,5 +30,8 @@
 
 ### 🏁 Conclusiones genarles  
 
+### 🤖 Declaracion De Uso de la IA
+[Uso de la IA](usoIA.md)
+
 ### 📖 Bibliografías generales
 [Bibliografias](Bibliografias.md)
