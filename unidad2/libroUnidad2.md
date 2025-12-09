@@ -2,7 +2,7 @@
 
 ## 1. ⚙️ Estructuras Condicionales: El Arte de Decidir 🚦
 
-> Las **estructuras condicionales** constituyen uno de los elementos centrales de la programación, ya que permiten que un programa seleccione distintos caminos según la situación. Gracias a ellas, el código puede ejecutar acciones diferentes dependiendo de si una **condición lógica** resulta $\text{verdadera}$ (`true`) o $\text{falsa}$ (`false`), moldeando así el flujo general de ejecución.
+Las **estructuras condicionales** constituyen uno de los elementos centrales de la programación, ya que permiten que un programa seleccione distintos caminos según la situación. Gracias a ellas, el código puede ejecutar acciones diferentes dependiendo de si una **condición lógica** resulta verdadera (true) o falsa} (false), moldeando así el flujo general de ejecución.
 
 ---
 
