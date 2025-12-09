@@ -18,8 +18,11 @@
 (Se uso Zotero para añadir las Bibliografias)
 
 [1]	D. Rodríguez y H. Adrián, «Operadores condicionales en C - if, else, elseif y switch», Diseño Web akus.net. Accedido: 9 de diciembre de 2025. [En línea]. Disponible en: https://disenowebakus.net/condicionales.php
+
 [2]	«Sentencia If...Else en C explicada». Accedido: 9 de diciembre de 2025. [En línea]. Disponible en: https://www.freecodecamp.org/espanol/news/sentencia-if-else-en-c-explicada/
+
 [3]	«Bucles en lenguaje C (estructura de repetición). Condición, contador. Ejemplos. Tabla de multiplicar (CU00533F)». Accedido: 9 de diciembre de 2025. [En línea]. Disponible en: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=931:bucles-en-lenguaje-c-estructura-de-repeticion-condicion-contador-ejemplos-tabla-de-multiplicar-cu00533f&catid=82&Itemid=210
+
 [4]	«Implementar bucles en C», LabEx. Accedido: 9 de diciembre de 2025. [En línea]. Disponible en: https://labex.io/es/tutorials/c-implement-loops-in-c-438332
 
 
