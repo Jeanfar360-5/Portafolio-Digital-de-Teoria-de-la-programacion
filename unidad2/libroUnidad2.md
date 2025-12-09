@@ -18,7 +18,10 @@ if (condición) { // código }
 <img width="565" height="502" alt="image" src="https://github.com/user-attachments/assets/05018432-9094-43a3-85d3-f73bf7919cc8" />
 
 
+
+
 **Ejemplo en diagrama de flujo**
+
 
 <img width="562" height="393" alt="image" src="https://github.com/user-attachments/assets/360ca1fb-d65a-479d-a7e6-e146a6bb2e99" />
 
@@ -29,7 +32,18 @@ if (condición) { // código }
 El **Condicional Doble (`if-else`)** genera una división en dos rutas posibles. Si la condición es **verdadera**, se ejecuta un bloque; si es **falsa**, se ejecuta un bloque alterno. Esto garantiza que siempre se ejecute una de las opciones disponibles.
 
 **Sintaxis en C:**  
-`if (condición) { // código A } else { // código B }`
+if (condición) { // código A } else { // código B }
+
+**Ejemplo de codigo en C**
+
+<img width="672" height="542" alt="image" src="https://github.com/user-attachments/assets/0d0fdaf2-1711-4287-b2d9-ad278dd3b4ef" />
+
+
+
+**Ejemplo en diagrama de flujo**
+
+
+<img width="941" height="370" alt="image" src="https://github.com/user-attachments/assets/3d09cc3b-a86a-4b80-87e0-0c8647e92e10" />
 
 ---
 
