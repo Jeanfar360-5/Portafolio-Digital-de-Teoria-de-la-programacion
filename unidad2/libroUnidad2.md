@@ -99,6 +99,17 @@ Es un ciclo **pre-condicional**, lo que implica que la condición se evalúa **a
 **Sintaxis en C:**  
 `while (condición) { // código }`
 
+
+**Ejemplo de codigo en C**
+
+<img width="592" height="507" alt="image" src="https://github.com/user-attachments/assets/0f89fd44-3a48-44f8-9d48-e111307f0e86" />
+
+
+**Ejemplo en diagrama de flujo**
+
+<img width="522" height="747" alt="image" src="https://github.com/user-attachments/assets/9ff4a202-37c7-4938-9905-50e9906bcaac" />
+
+
 ---
 
 ### 2.2. Bucle `do-while` (Post-condicional) ➡️
@@ -108,6 +119,16 @@ En este caso, la verificación se realiza **al finalizar** cada iteración, por 
 **Sintaxis en C:**  
 `do { // código } while (condición);`
 
+**Ejemplo de codigo en C**
+
+<img width="641" height="441" alt="image" src="https://github.com/user-attachments/assets/5aa78723-faf6-4e56-8ff7-b9336ea07528" />
+
+
+**Ejemplo en diagrama de flujo**
+
+<img width="655" height="622" alt="image" src="https://github.com/user-attachments/assets/7e9ff8bd-aa56-4ce3-bfea-268aa068f153" />
+
+
 ---
 
 ### 2.3. Bucle `for` (Conteo Fijo) 🔢
@@ -116,6 +137,17 @@ Se emplea cuando el número de repeticiones está previamente definido. Su estru
 
 **Sintaxis en C:**  
 `for (inicialización; condición; actualización) { // código }`
+
+**Ejemplo de codigo en C**
+
+<img width="761" height="498" alt="image" src="https://github.com/user-attachments/assets/25995af3-6d93-4094-ab85-1fe21543834f" />
+
+
+
+**Ejemplo en diagrama de flujo**
+
+<img width="927" height="745" alt="image" src="https://github.com/user-attachments/assets/2df47d6f-d2c0-4832-96dc-d00889e10f30" />
+
 
 ---
 
