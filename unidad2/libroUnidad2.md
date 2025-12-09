@@ -183,11 +183,16 @@ El usuario puede seguir ingresando números hasta que escriba la palabra "salir"
 
 ## 4. ⚠️ Principales Dificultades en la Aplicación
 
-Durante la unidad y los contenidos vistos, la mayor dificultad fue la transicion de un lenguaje simple a segmentado con las condicionales y bucles, sobre todo con este ultimo ya que su logica y forma de razon fue un poco mas compleja de analizar eh implemntar, sin embargo fue facil de dominarla con la practica, este sin duda alguna fue la dificultad mas signifactiva para mi de forma personal, sin embargo como recomendacion para los futuros estudiantes, cambiar la forma de pensar es necesaria para adquirir los conocimientos de manejo sobre los aprendizajes
+Durante la unidad, la mayor dificultad que enfrenté fue adaptarme al cambio entre trabajar con estructuras simples y pasar a un lenguaje más segmentado, especialmente al introducir condicionales y bucles. La lógica detrás de los bucles, en particular, representó un reto considerable: entender cómo se repetían las instrucciones, cuándo debían detenerse y cómo evitar errores lógicos requirió mayor análisis y práctica.
+
+A pesar de ello, con dedicación y repetición constante, estos conceptos se volvieron cada vez más comprensibles y manejables. Esta etapa fue, sin duda, la dificultad más significativa para mí a nivel personal. Como recomendación para futuros estudiantes, considero esencial ajustar la forma de pensar y adoptar una mentalidad más analítica. Este cambio es clave para poder asimilar correctamente las estructuras y desarrollar una base sólida en programación.
 
 ---
 
 ## 5. 💡 Reflexión Crítica de los Aprendizajes
 
-La transición en C de los codigos simples a compuestos a traves de bucles y condicionales fue el punto donde el reto se volvió evidente: llevar esa lógica sobre como funcionaban estas estructuras fue precisisa y de alta atención al detalle. Sin embargo con el pasar de las practicas se pudo dominar con facllidad estas nuevas estructuras, por lo que en conjunto, esta experiencia dejó claro que el aprendizaje en programación progresa desde entender cómo pensar un problema hasta dominar la manera de expresarlo correctamente en un lenguaje. Ese equilibrio entre lógica y sintaxis se convierte en una base sólida para avanzar en futuros desafíos.
+La transición dentro del lenguaje C, pasando de escribir códigos simples a manejar estructuras más complejas como bucles y condicionales, marcó un punto crucial en el proceso de aprendizaje. Fue en este momento cuando el reto se hizo más evidente: comprender la lógica interna de estas estructuras requería precisión, paciencia y atención al detalle.
 
+Con el progreso de las prácticas, estos conceptos se volvieron más naturales y fáciles de aplicar. Esta experiencia dejó claro que aprender a programar no solo implica conocer la sintaxis, sino también desarrollar la capacidad de descomponer problemas y estructurar soluciones de manera lógica. Ese equilibrio entre pensamiento lógico y dominio del lenguaje constituye una base firme para avanzar hacia desafíos más complejos en el futuro.
+
+---
