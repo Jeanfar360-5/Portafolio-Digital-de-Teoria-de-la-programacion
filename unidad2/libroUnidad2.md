@@ -17,6 +17,7 @@ if (condición) { // código }
 
 <img width="565" height="502" alt="image" src="https://github.com/user-attachments/assets/05018432-9094-43a3-85d3-f73bf7919cc8" />
 
+
 **Ejemplo en diagrama de flujo**
 
 <img width="562" height="393" alt="image" src="https://github.com/user-attachments/assets/360ca1fb-d65a-479d-a7e6-e146a6bb2e99" />
