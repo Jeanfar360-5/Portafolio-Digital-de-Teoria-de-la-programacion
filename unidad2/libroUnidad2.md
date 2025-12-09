@@ -164,6 +164,7 @@ El usuario puede seguir ingresando números hasta que escriba la palabra "salir"
 
 ### 3.2. Diagrama de flujo:
 
+<img width="543" height="853" alt="image" src="https://github.com/user-attachments/assets/dd6a58fb-0544-4f3b-9cb3-2372999f4086" />
 
 
 ### 3.3. Código en lenguaje C:
@@ -182,11 +183,16 @@ El usuario puede seguir ingresando números hasta que escriba la palabra "salir"
 
 ## 4. ⚠️ Principales Dificultades en la Aplicación
 
-
+Al comienzo, la aplicación práctica resultó completamente nueva y desafiante. La mayor dificultad no estuvo en aprender a programar, sino en adaptarse a una forma distinta de pensar: organizar pasos, anticipar decisiones y estructurar la lógica sin tener aún dominio del lenguaje. Este cambio de perspectiva exigió dejar atrás la intuición habitual para adoptar un razonamiento más riguroso y secuencial.
+La verdadera complejidad surgió al intentar convertir ideas en soluciones concretas, especialmente cuando la falta de experiencia dificultaba mantener el control del flujo y prever errores. Este proceso de adaptación fue el obstáculo principal antes incluso de escribir código formal.
 
 ---
 
 ## 5. 💡 Reflexión Crítica de los Aprendizajes
 
+El aprendizaje de la unidad se construyó paso a paso. Primero, trabajar con diagramas de flujo y programación en bloques permitió enfocarse únicamente en la lógica, comprendiendo cómo se estructura un proceso y cómo se toman decisiones dentro de un programa. Esta base conceptual hizo más clara la forma en que las ideas deben ordenarse.
 
+La transición a C fue el punto donde el reto se volvió evidente: llevar esa lógica a un lenguaje real exigió precisión, atención al detalle y la capacidad de interpretar errores constantes. Aunque el contraste fue fuerte, también mostró que programar no se trata solo de memorizar sintaxis, sino de transformar un razonamiento lógico en instrucciones exactas.
+
+En conjunto, esta experiencia dejó claro que el aprendizaje en programación progresa desde entender cómo pensar un problema hasta dominar la manera de expresarlo correctamente en un lenguaje. Ese equilibrio entre lógica y sintaxis se convierte en una base sólida para avanzar en futuros desafíos.
 
