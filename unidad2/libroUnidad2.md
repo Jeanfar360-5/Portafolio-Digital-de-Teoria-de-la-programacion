@@ -11,7 +11,13 @@ Las **estructuras condicionales** constituyen uno de los elementos centrales de 
 El **Condicional Simple (`if`)** representa la decisión más básica dentro de un algoritmo. Evalúa una expresión booleana y ejecuta su bloque asociado **solo cuando** dicha condición es verdadera. En caso contrario, el programa continúa sin entrar en el bloque.
 
 **Sintaxis en C:**  
-`if (condición) { // código }`
+if (condición) { // código }
+
+**Ejemplo de codigo en C**
+<img width="565" height="502" alt="image" src="https://github.com/user-attachments/assets/05018432-9094-43a3-85d3-f73bf7919cc8" />
+
+**Ejemplo en diagrama de flujo**
+<img width="562" height="393" alt="image" src="https://github.com/user-attachments/assets/360ca1fb-d65a-479d-a7e6-e146a6bb2e99" />
 
 ---
 
