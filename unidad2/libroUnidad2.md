@@ -42,7 +42,7 @@ Adecuada cuando la decisión depende del **valor exacto de una variable**. Se re
 
 ## 2. 🔁 Estructuras Repetitivas (Ciclos o Bucles) 🔄
 
-> Los **bucles** permiten repetir un conjunto de instrucciones mientras se cumpla una condición, facilitando procesos que requieren iteraciones continuas o controladas.
+Los **bucles** permiten repetir un conjunto de instrucciones mientras se cumpla una condición, facilitando procesos que requieren iteraciones continuas o controladas.
 
 ---
 
