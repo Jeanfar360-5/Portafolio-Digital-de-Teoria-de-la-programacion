@@ -25,4 +25,14 @@
 
 [4]	«Implementar bucles en C», LabEx. Accedido: 9 de diciembre de 2025. [En línea]. Disponible en: https://labex.io/es/tutorials/c-implement-loops-in-c-438332
 
+---
+
+**Unidad 3**
+(Se uso Zotero para añadir las Bibliografias)
+
+[1]	«Paso de parámetros argumentos en C. Por defecto, por valor o por referencia. sizeof longitud length (CU00550F)». Accedido: 29 de enero de 2026. [En línea]. Disponible en: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=951:paso-de-parametros-argumentos-en-c-por-defecto-por-valor-o-por-referencia-sizeof-longitud-length-cu00550f&catid=82&Itemid=210
+[2]	«Programación en C». Accedido: 29 de enero de 2026. [En línea]. Disponible en: http://maxus.fis.usal.es/FICHAS_C.WEB/08xx_PAGS/0803.html
+[3]	«Arrays unidimensionales (arreglos o formaciones) en C. Declaración y límites índices. Ejemplos (CU00512F)». Accedido: 29 de enero de 2026. [En línea]. Disponible en: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=901:arrays-unidimensionales-arreglos-o-formaciones-en-c-declaracion-y-limites-indices-ejemplos-cu00512f&catid=82&Itemid=210
+[4]	«Arreglos bidimensionales (matrices o tablas) - Programación en C». Accedido: 29 de enero de 2026. [En línea]. Disponible en: http://solucioningenieril.com/programacion_en_c/arreglos_bidimensionales_matrices_o_tablas
+[5]	«C-ARREGLOS MULTIDIMENSIONALES. Un arreglo multidimensional se puede denominar… | por Dev Frank | Medium». Accedido: 29 de enero de 2026. [En línea]. Disponible en: https://medium.com/@Dev_Frank/c-multidimensional-arrays-c8e0d8bd0ce0
 
