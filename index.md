@@ -28,7 +28,10 @@
 
 ### 🧠 Unidad 3 — Paradigmas de Programación:  
 
+[Visualizar la unidad 3 ](unidad3/unidadTres.md)
+
 ### 🏁 Conclusiones genarles  
+[Visualizar las concluciones ](concluciones.md)
 
 ### 🤖 Declaracion De Uso de la IA
 [Uso de la IA](usoIA.md)
