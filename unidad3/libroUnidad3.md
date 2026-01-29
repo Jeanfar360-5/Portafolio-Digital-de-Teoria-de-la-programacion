@@ -5,17 +5,17 @@
 ## 1. 🧩 Modularidad: Comunicación entre Módulos
 
 ### 1.1. Paso por Valor (Copia de Argumentos)
-* **¿Qué es?**: Un método de transferencia donde se entrega una réplica de los datos a la función, manteniendo la variable original blindada contra cambios accidentales 
+Cuando pasas una variable por valor, la función no recibe la variable real, sino una réplica exacta de su contenido. Es como si le entregaras a alguien una fotocopia de un documento: esa persona puede rayar o romper la fotocopia, pero tu documento original en casa seguirá intacto.
+
 * **¿Para qué sirve?**: Permite procesar información de forma local dentro de un bloque de código sin alterar el estado del flujo principal 
 * **¿Cómo se usa?**: El sistema asigna un espacio temporal en la memoria para que la función trabaje exclusivamente con esos datos mientras esté activa 
 
 
-💻 CÓDIGO EN C: Lógica de Copia
+**💻 Codigo en C junto con su ejecucion: Lógica de Copia**
 
-El valor original NO se modifica dentro del programa principal.
+Como se observa el valor original NO se modifica dentro del programa principal.
 
-TERMINAL: Ejecución por Valor
-
+<img width="1160" height="642" alt="1" src="https://github.com/user-attachments/assets/28e61300-7e4f-4e73-9403-eb06f4b55baf" />
 
 ---
 
