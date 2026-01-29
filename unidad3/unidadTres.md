@@ -32,7 +32,7 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 
 ### 📂 Tareas y Actividades Entregadas (AA y APE)
 - [🧠 Construcción de funciones y procedimientos.]()
-- [💻 Curso Fundamentos de Programación.]()
+- [💻 Curso Fundamentos de Programación.](tareasEntregadas/Python_Essentials_1_certificate_jeancarlos-aguirre-unl-edu-ec_d2a90e63-8163-4a2f-94a4-82b8b5fc63a4.pdf)
 
 ---
 
