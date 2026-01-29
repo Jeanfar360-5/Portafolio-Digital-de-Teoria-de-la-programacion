@@ -5,7 +5,7 @@
 
 ---
 
-## 🧩 Unidad 2 — Fundamentos de Algoritmos  
+## 🧩 Unidad 3 — Modularidad y Estructuras de Datos  
 
 ### 📖 Contenidos de la Unidad
 
@@ -31,16 +31,16 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 ---
 
 ### 📂 Tareas y Actividades Entregadas (AA y APE)
-- [🧠 Construcción de funciones y procedimientos.]()
+- [🧠 Construcción de funciones y procedimientos.](tareasEntregadas/Jeancarlos_Aguirre_APE1_Teoría_de_la_programación  (1).pdf)
 - [💻 Curso Fundamentos de Programación.](tareasEntregadas/Python_Essentials_1_certificate_jeancarlos-aguirre-unl-edu-ec_d2a90e63-8163-4a2f-94a4-82b8b5fc63a4.pdf)
 
 ---
 
 ### 🎯 Conclusiones de la Unidad
 
-//Profundizar en los diagramas de flujo, las estructuras condicionales y los bucles ha sido fundamental para consolidar nuestra comprensión del pensamiento lógico dentro de la programación. Los diagramas de flujo permiten visualizar de forma clara el camino que sigue un algoritmo, facilitando la identificación de errores y la mejora de cada proceso. Las condicionales y los bucles, por su parte, nos enseñan a tomar decisiones dentro del programa y repetir acciones de manera eficiente, dos capacidades esenciales en cualquier solución informática.
+Esta etapa marca un punto de inflexión fundamental en el desarrollo de software, ya que dejamos atrás los scripts lineales para abrazar la modularidad y el uso avanzado de arreglos. Al integrar funciones, transformamos el código en un ecosistema organizado donde la reutilización y la facilidad para corregir errores (depuración) se vuelven la norma, no la excepción. Esta transición no es solo técnica, sino mental: pasamos de resolver problemas aislados a diseñar sistemas escalables. La capacidad de gestionar datos masivos a través de vectores, matrices y arreglos tridimensionales permite que nuestras aplicaciones procesen información con una estructura lógica y eficiente que antes era inalcanzable.
 
-//En conjunto, estas herramientas no solo fortalecen nuestra habilidad para planificar mejor, sino que también nos permiten desarrollar soluciones más precisas, ordenadas y adaptables. Comprenderlas a profundidad es un paso clave para seguir avanzando con seguridad hacia proyectos más complejos y continuar mejorando nuestra capacidad de resolver problemas mediante la programación.     
+Dominar estas herramientas en el lenguaje C es un rito de iniciación esencial. Al obligarnos a interactuar directamente con la gestión de memoria y la precisión quirúrgica de los índices, C nos prepara para enfrentar desafíos de alta complejidad. Esta base técnica es la que realmente permite comprender, a futuro, cómo funcionan las estructuras de datos de alto nivel y la arquitectura de sistemas robustos.     
 
 ---
 
