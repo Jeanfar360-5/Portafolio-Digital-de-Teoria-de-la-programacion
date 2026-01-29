@@ -31,7 +31,7 @@ Todo el contenido en listado fue consolodidado en un libro digital:
 ---
 
 ### 📂 Tareas y Actividades Entregadas (AA y APE)
-- [🧠 Construcción de funciones y procedimientos.](tareasEntregadas/Jeancarlos_Aguirre_APE1_Teoría_de_la_programación  (1).pdf)
+- [🧠 Construcción de funciones y procedimientos.](tareasEntregadas/Jeancarlos_Aguirre_APE1_Teoría_de_la_programación.pdf)
 - [💻 Curso Fundamentos de Programación.](tareasEntregadas/Python_Essentials_1_certificate_jeancarlos-aguirre-unl-edu-ec_d2a90e63-8163-4a2f-94a4-82b8b5fc63a4.pdf)
 
 ---
